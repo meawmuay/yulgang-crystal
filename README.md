@@ -17,7 +17,7 @@
 [Yulgang Crystal Version 1.0.0](https://github.com/meawmuay/yulgang-crystal/releases/download/v1.0.0/Yulgang.Crystal.rar "Yulgang Crystal Latest Version")
 
 ### ติดตั้ง
-ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 6.0 หรือมากกว่า ดาวน์โหลดได้จากลิงค์ด้านล่าง
+ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 6.0 หรือมากกว่า ดาวน์โหลดได้จากลิงก์ด้านล่าง
 
 [Microsoft .NET Framework 6.0 (Web Installer)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.24-windows-x64-installer "Microsoft .NET Framework 6.0 (Web Installer)")
 
