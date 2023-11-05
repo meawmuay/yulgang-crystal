@@ -19,7 +19,7 @@
 ### ติดตั้ง
 ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 6.0 หรือมากกว่า ดาวน์โหลดได้จากลิงก์ด้านล่าง
 
-[Microsoft .NET Framework 6.0 (Web Installer)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.24-windows-x64-installer "Microsoft .NET Framework 6.0 (Web Installer)")
+[Microsoft .NET Framework 6.0.24](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.24-windows-x64-installer "Microsoft .NET Framework 6.0.24 ")
 
 ### วิธีใช้งาน
 1. เปิดไฟล์ Yulgang Crystal.exe เพื่อเข้าใช้งาน
