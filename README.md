@@ -14,7 +14,7 @@
 
 โปรแกรมนี้เขียนด้วยโปรแกรม Visual Studio 2022 และใช้ .NET Framework เวอร์ชั่น 6.0 เป็นอย่างต่ำ
 ### ดาวน์โหลด
-[Yulgang Crystal Version 1.0.2.1](https://github.com/meawmuay/yulgang-crystal/releases/download/v1.0.2/Yulgang.Crystal.rar "Yulgang Crystal Latest Version")
+[Yulgang Crystal Version 1.0.2.2](https://github.com/meawmuay/yulgang-crystal/releases/download/v1.0.2.2/Yulgang.Crystal.rar "Yulgang Crystal Latest Version")
 
 ### ติดตั้ง
 ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 6.0 หรือมากกว่า ดาวน์โหลดได้จากลิงก์ด้านล่าง
@@ -34,6 +34,7 @@
 - Line Notify - กล่องบอทหมดอายุ: แจ้งเตือนจอที่กล่องบอทหายไปจากจอ หากเปิดตัวนี้ต้องอย่ากดปิดกล่องบอททิ้ง
 - Line Notify - กล่องบอทหมดอายุ: แจ้งเตือนจอที่หายไป
 - Line Notify - ลูกแก้วหมด: แจ้งเตือนเมื่อค้นหาลูกแก้วที่ยังไม่ได้ใข้งาน ไม่พบ
+- Line Notify - เมื่อตาย: แจ้งเตือนเมื่อพบตัวละครตาย
 
 ### วิธีใช้งาน
 1. เปิดไฟล์ Yulgang Crystal.exe เพื่อเข้าใช้งาน
